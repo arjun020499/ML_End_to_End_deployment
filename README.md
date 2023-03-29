@@ -1,2 +1,1 @@
-## This project demonstrates 
-git remote -vclsthe end to end deploymnent of ml projects
+## This project demonstratesgit end to end deploymnent of ml projects
