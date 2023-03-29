@@ -1,1 +1,1 @@
-## This project demonstratesgit end to end deploymnent of ml projects
+## This project demonstrates end to end deploymnent of ml projects
